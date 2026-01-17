@@ -37,8 +37,8 @@ class MainWindow(QWidget):
         self.search.setFixedHeight(32)
         self.search.setStyleSheet("""
             QLineEdit {
-                background: #FFFFFF;
-                color: black;
+                background: #0E1621;
+                color: white;
                 border: none;
                 border-radius: 6px;
                 padding: 6px 10px;
